@@ -1,0 +1,172 @@
+[
+  {
+    "createTime": "",
+    "dailyTask": 1,
+    "finishDate": "20170109",
+    "planedDate": "20170109",
+    "priority": 0,
+    "score": 10,
+    "taskName": "时间管理",
+    "type": "计划和回顾"
+  },
+  {
+    "createTime": "",
+    "dailyTask": 1,
+    "finishDate": "20170109",
+    "planedDate": "20170109",
+    "priority": 0,
+    "score": 20,
+    "taskName": "计划任务",
+    "type": "计划和回顾"
+  },
+  {
+    "createTime": "",
+    "dailyTask": 1,
+    "finishDate": "20170109",
+    "planedDate": "20170109",
+    "priority": 0,
+    "score": 50,
+    "taskName": "回顾任务",
+    "type": "计划和回顾"
+  },
+  {
+    "createTime": "",
+    "dailyTask": 1,
+    "finishDate": "20170109",
+    "planedDate": "20170109",
+    "priority": 2,
+    "score": 80,
+    "taskName": "看视频",
+    "type": "休闲娱乐"
+  },
+  {
+    "createTime": "",
+    "dailyTask": 1,
+    "finishDate": "20170109",
+    "planedDate": "20170109",
+    "priority": 2,
+    "score": 20,
+    "taskName": "手机游戏",
+    "type": "休闲娱乐"
+  },
+  {
+    "createTime": "",
+    "dailyTask": 1,
+    "finishDate": "20170109",
+    "planedDate": "20170109",
+    "priority": 2,
+    "score": 20,
+    "taskName": "每天阅读QQ消息",
+    "type": "阅读"
+  },
+  {
+    "createTime": "",
+    "dailyTask": 1,
+    "finishDate": "20170109",
+    "planedDate": "20170109",
+    "priority": 2,
+    "score": 40,
+    "taskName": "每天阅读开发者头条",
+    "type": "阅读"
+  },
+  {
+    "createTime": "",
+    "dailyTask": 1,
+    "finishDate": "20170109",
+    "planedDate": "20170109",
+    "priority": 2,
+    "score": 40,
+    "taskName": "每天阅读微信公众号",
+    "type": "阅读"
+  },
+  {
+    "createTime": "",
+    "dailyTask": 1,
+    "finishDate": "20170109",
+    "planedDate": "20170109",
+    "priority": 0,
+    "score": 50,
+    "taskName": "ELK stack权威指南",
+    "type": "读书"
+  },
+  {
+    "createTime": "",
+    "dailyTask": 1,
+    "finishDate": "20170109",
+    "planedDate": "20170109",
+    "priority": 0,
+    "score": 40,
+    "taskName": "已完成Go Proxy统计接口开发",
+    "type": "工作"
+  },
+  {
+    "createTime": "",
+    "dailyTask": 1,
+    "finishDate": "20170109",
+    "planedDate": "20170109",
+    "priority": 0,
+    "score": 55,
+    "taskName": "上班工作不拖延",
+    "type": "工作"
+  },
+  {
+    "createTime": "",
+    "dailyTask": 1,
+    "finishDate": "20170109",
+    "planedDate": "20170109",
+    "priority": 1,
+    "score": 30,
+    "taskName": "走路",
+    "type": "运动"
+  },
+  {
+    "createTime": "",
+    "dailyTask": 1,
+    "finishDate": "20170109",
+    "planedDate": "20170109",
+    "priority": 1,
+    "score": 40,
+    "taskName": "30个仰卧起坐，5个俯卧撑，2次平板支撑",
+    "type": "运动"
+  },
+  {
+    "createTime": "",
+    "dailyTask": 1,
+    "finishDate": "20170109",
+    "planedDate": "20170109",
+    "priority": 1,
+    "score": 10,
+    "taskName": "每天记账",
+    "type": "生活习惯"
+  },
+  {
+    "createTime": "",
+    "dailyTask": 0,
+    "finishDate": "20170109",
+    "planedDate": "20170109",
+    "priority": 1,
+    "score": 10,
+    "taskName": "洗澡",
+    "type": "生活习惯"
+  },
+  {
+    "createTime": "",
+    "dailyTask": 1,
+    "finishDate": "20170109",
+    "planedDate": "20170109",
+    "priority": 0,
+    "score": 30,
+    "taskName": "每天吃早饭",
+    "type": "生活习惯"
+  },
+  {
+    "createTime": "",
+    "dailyTask": 1,
+    "finishDate": "20170109",
+    "planedDate": "20170109",
+    "priority": 0,
+    "score": 50,
+    "taskName": "睡觉",
+    "type": "生活习惯"
+  }
+]
