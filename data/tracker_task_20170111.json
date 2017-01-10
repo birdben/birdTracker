@@ -1,0 +1,192 @@
+[
+  {
+    "createTime": "20170111",
+    "dailyTask": 1,
+    "finishDate": "20170111",
+    "planedDate": "20170111",
+    "priority": 0,
+    "score": -,
+    "taskName": "时间管理",
+    "type": "计划和回顾"
+  },
+  {
+    "createTime": "20170111",
+    "dailyTask": 1,
+    "finishDate": "20170111",
+    "planedDate": "20170111",
+    "priority": 0,
+    "score": 40,
+    "taskName": "计划任务",
+    "type": "计划和回顾"
+  },
+  {
+    "createTime": "20170111",
+    "dailyTask": 1,
+    "finishDate": "20170111",
+    "planedDate": "20170111",
+    "priority": 0,
+    "score": -,
+    "taskName": "回顾任务",
+    "type": "计划和回顾"
+  },
+  {
+    "createTime": "20170111",
+    "dailyTask": 1,
+    "finishDate": "20170111",
+    "planedDate": "20170111",
+    "priority": 2,
+    "score": -,
+    "taskName": "看视频",
+    "type": "休闲娱乐"
+  },
+  {
+    "createTime": "20170111",
+    "dailyTask": 1,
+    "finishDate": "20170111",
+    "planedDate": "20170111",
+    "priority": 2,
+    "score": -,
+    "taskName": "手机游戏",
+    "type": "休闲娱乐"
+  },
+  {
+    "createTime": "20170111",
+    "dailyTask": 1,
+    "finishDate": "20170111",
+    "planedDate": "20170111",
+    "priority": 2,
+    "score": -,
+    "taskName": "每天阅读QQ消息",
+    "type": "阅读"
+  },
+  {
+    "createTime": "20170111",
+    "dailyTask": 1,
+    "finishDate": "20170111",
+    "planedDate": "20170111",
+    "priority": 2,
+    "score": -,
+    "taskName": "每天阅读开发者头条",
+    "type": "阅读"
+  },
+  {
+    "createTime": "20170111",
+    "dailyTask": 1,
+    "finishDate": "20170111",
+    "planedDate": "20170111",
+    "priority": 2,
+    "score": -,
+    "taskName": "每天阅读微信公众号",
+    "type": "阅读"
+  },
+  {
+    "createTime": "20170111",
+    "dailyTask": 1,
+    "finishDate": "20170111",
+    "planedDate": "20170111",
+    "priority": 0,
+    "score": -,
+    "taskName": "ELK stack权威指南",
+    "type": "读书"
+  },
+  {
+    "createTime": "20170111",
+    "dailyTask": 1,
+    "finishDate": "20170111",
+    "planedDate": "20170111",
+    "priority": 0,
+    "score": -,
+    "taskName": "导出全部邮箱注册用户，导出广告红包相关信息，广告红包Kafka消费者修改",
+    "type": "工作"
+  },
+  {
+    "createTime": "20170111",
+    "dailyTask": 1,
+    "finishDate": "20170111",
+    "planedDate": "20170111",
+    "priority": 0,
+    "score": -,
+    "taskName": "上班工作不拖延",
+    "type": "工作"
+  },
+  {
+    "createTime": "20170111",
+    "dailyTask": 1,
+    "finishDate": "20170111",
+    "planedDate": "20170111",
+    "priority": 1,
+    "score": -,
+    "taskName": "走路",
+    "type": "运动"
+  },
+  {
+    "createTime": "20170111",
+    "dailyTask": 1,
+    "finishDate": "20170111",
+    "planedDate": "20170111",
+    "priority": 1,
+    "score": -,
+    "taskName": "20个仰卧起坐，10个俯卧撑，3次平板支撑",
+    "type": "运动"
+  },
+  {
+    "createTime": "20170111",
+    "dailyTask": 1,
+    "finishDate": "20170111",
+    "planedDate": "20170111",
+    "priority": 1,
+    "score": -,
+    "taskName": "每天记账",
+    "type": "生活习惯"
+  },
+  {
+    "createTime": "20170111",
+    "dailyTask": 1,
+    "finishDate": "20170111",
+    "planedDate": "20170111",
+    "priority": 0,
+    "score": -,
+    "taskName": "每天吃早饭",
+    "type": "生活习惯"
+  },
+  {
+    "createTime": "20170111",
+    "dailyTask": 1,
+    "finishDate": "20170111",
+    "planedDate": "20170111",
+    "priority": 0,
+    "score": -,
+    "taskName": "睡觉",
+    "type": "生活习惯"
+  },
+  {
+    "createTime": "20170111",
+    "dailyTask": 0,
+    "finishDate": "20170111",
+    "planedDate": "20170111",
+    "priority": 0,
+    "score": -,
+    "taskName": "注销招商银行卡",
+    "type": "生活习惯"
+  },
+  {
+    "createTime": "20170111",
+    "dailyTask": 0,
+    "finishDate": "20170111",
+    "planedDate": "20170111",
+    "priority": 0,
+    "score": -,
+    "taskName": "Go相关blog总结",
+    "type": "GitHub"
+  },
+  {
+    "createTime": "20170111",
+    "dailyTask": 0,
+    "finishDate": "20170111",
+    "planedDate": "20170111",
+    "priority": 0,
+    "score": -,
+    "taskName": "birdTraker项目",
+    "type": "GitHub"
+  }
+]
