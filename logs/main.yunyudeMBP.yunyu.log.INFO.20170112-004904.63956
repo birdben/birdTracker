@@ -1,0 +1,9 @@
+Log file created at: 2017/01/12 00:49:04
+Running on machine: yunyudeMBP
+Binary: Built with gc go1.7.3 for darwin/amd64
+Log line format: [IWEF]mmdd hh:mm:ss.uuuuuu threadid file:line] msg
+I0112 00:49:04.870218   63956 main.go:13] main start
+I0112 00:49:04.870812   63956 task.go:21] SaveTaskInfo start
+I0112 00:49:04.870815   63956 task.go:22] taskInfo={1 GitHub 高效工作 0 0 120160112 120160112 120160112 0}
+I0112 00:49:04.870825   63956 task.go:23] SaveTaskInfo end
+I0112 00:49:04.870827   63956 main.go:29] main end

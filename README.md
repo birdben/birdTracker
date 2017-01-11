@@ -71,3 +71,17 @@ period : 打分周期（0：临时，1：每天，2：每周，3：每月）
   "title": "体力锻炼"
 }
 ```
+
+### 启动项目步骤：
+
+1. 执行build.sh脚本
+
+```
+$ sh build.sh
+```
+
+2. 执行startup.sh脚本
+
+```
+$ sh startup.sh
+```
