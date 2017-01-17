@@ -51,9 +51,13 @@ func LoggerJsonObj(obj interface{}) (jsonData string, err error) {
 	var interfaceObj interface{} = obj
 	reflectObj := reflect.ValueOf(interfaceObj)
 	typeOfType := reflectObj.Type()
+	glog.V(10).Infof("LoggerJsonObj interfaceObj=%v", interfaceObj)
+	glog.V(10).Infof("LoggerJsonObj reflectObj=%v", reflectObj)
+	glog.V(10).Infof("LoggerJsonObj typeOfType=%v", typeOfType)
 	entry := make(map[string]interface{})
 	for i := 0; i < reflectObj.NumField(); i++ {
 		field := reflectObj.Field(i)
+		glog.V(10).Infof("LoggerJsonObj field=%v", field)
 		var v interface{}
 		val := field.Interface()
 		b, ok := val.([]byte)
@@ -75,16 +79,16 @@ func LoggerJsonObj(obj interface{}) (jsonData string, err error) {
 
 func LoggerJsonArray(objs []interface{}) (jsonData string, err error) {
 	glog.V(10).Info("LoggerJsonArray start")
-	tableData := make([]map[string]interface{}, 0)
-	for _, obj := range objs {
-		reflectObj := reflect.ValueOf(obj)
-		glog.V(10).Infof("LoggerJsonArray obj=%v", obj)
+	entryList := make([]map[string]interface{}, 0)
+	for _, interfaceObj := range objs {
+		reflectObj := reflect.ValueOf(interfaceObj)
+		typeOfType := reflectObj.Type()
+		glog.V(10).Infof("LoggerJsonArray interfaceObj=%v", interfaceObj)
 		glog.V(10).Infof("LoggerJsonArray reflectObj=%v", reflectObj)
+		glog.V(10).Infof("LoggerJsonArray typeOfType=%v", typeOfType)
 		entry := make(map[string]interface{})
 		for i := 0; i < reflectObj.NumField(); i++ {
-			typeOfType := reflectObj.Type()
 			field := reflectObj.Field(i)
-			glog.V(10).Infof("LoggerJsonArray typeOfType=%v", typeOfType)
 			glog.V(10).Infof("LoggerJsonArray field=%v", field)
 			var v interface{}
 			val := field.Interface()
@@ -98,10 +102,10 @@ func LoggerJsonArray(objs []interface{}) (jsonData string, err error) {
 			glog.V(10).Infof("LoggerJsonArray json_value=%v", v)
 			entry[typeOfType.Field(i).Name] = v
 		}
-		tableData = append(tableData, entry)
+		entryList = append(entryList, entry)
 	}
 
-	jsonDataByte, err := json.Marshal(tableData)
+	jsonDataByte, err := json.Marshal(entryList)
 	jsonData = string(jsonDataByte)
 	glog.V(10).Infof("LoggerJsonArray jsonData=%v", jsonData)
 	glog.V(10).Info("LoggerJsonArray end")
